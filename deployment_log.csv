@@ -1,0 +1,6 @@
+timestamp,result,response_time
+2025-07-27 13:00:00,failure,1.03
+2025-07-27 13:02:00,success,2.43
+2025-07-27 13:04:00,failure,0.99
+2025-07-27 13:06:00,success,1.01
+2025-07-27 13:08:00,failure,1.32
